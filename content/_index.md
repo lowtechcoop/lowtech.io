@@ -17,3 +17,5 @@ Our members are from all over the globe
 #### I have another question...
 Jump into the ```#lowtech``` IRC channel and ask us.
 
+#### Can I use your pastebin? 
+As long as you post legal content in the jurisdiction of Australia. Access it at [https://paste.lowtech.io](https://paste.lowtech.io)
