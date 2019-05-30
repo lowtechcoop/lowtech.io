@@ -9,7 +9,7 @@ The ```#lowtech``` code of conduct is:
 
 1. Don't post spoilers
 * Don't dox others
-* Don't attack peoples IRL problems
+* Don't attack people's IRL problems
 * Don't defend ideas that are stupid
 * Don't interrupt tasteful ascii art
 * Do post links to good music
