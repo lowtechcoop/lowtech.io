@@ -12,6 +12,7 @@ The ```#lowtech``` code of conduct is:
 * Don't attack people's IRL problems
 * Don't defend ideas that are stupid
 * Don't interrupt tasteful ascii art
+* Don't text editor pros and cons (unless it's elisp vs. vimscript)
 * Do post links to good music
 * Do come with a thick skin
 * Anyone who forms a committee shall be code of conducted to death
