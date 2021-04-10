@@ -12,7 +12,7 @@ The ```#lowtech``` code of conduct is:
 * Don't attack people's IRL problems
 * Don't defend ideas that are stupid
 * Don't interrupt tasteful ascii art
-* Don't mention the existance of `i3-gaps` in any way
+* Don't mention the existence of `i3-gaps` in any way
 * Do post links to good music
 * Do come with a thick skin
 * Anyone who forms a committee shall be code of conducted to death
