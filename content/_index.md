@@ -9,7 +9,7 @@ tags:
 A community of nerds who like solving problems and arguing.
 
 #### Where are you?
-We are on the Freenode IRC network in the ```#lowtech``` channel
+We are on the [OFTC](https://www.oftc.net/) IRC network in the ```#lowtech``` channel
 
 #### Stuff we like
 Evidence, reason, linux, thinkpads, sosig, and big machines.
