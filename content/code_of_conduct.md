@@ -17,4 +17,4 @@ The ```#lowtech``` code of conduct is:
 * Do come with a thick skin
 * Anyone who forms a committee shall be code of conducted to death
 
-Suggestions for additions, changes, removals, complaints, and general hand-wringing must be directed in writing to the ```#lowtech``` channel on Freenode IRC with an associated pull request to the [GitHub website repository](https://github.com/davidpirogov/lowtech.io)
+Suggestions for additions, changes, removals, complaints, and general hand-wringing must be directed in writing to the ```#lowtech``` channel on [OFTC](https://www.oftc.net/) with an associated pull request to the [GitHub website repository](https://github.com/davidpirogov/lowtech.io)
