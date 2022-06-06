@@ -9,7 +9,6 @@ tags:
 - hardware
 ---
 
-### Overview
 
 In this video, Prof. Jack Dongarra describes the history of high-performance computers
 (HPC, or 'supercomputers') through the decades and the evolution of thinking about software,

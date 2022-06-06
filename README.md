@@ -35,7 +35,6 @@ tags:
 - tags
 ---
 
-### Overview
 
 <One or two short sentences that describe what the viewer will learn at the end>
 
