@@ -12,7 +12,11 @@ Site content is built with [Hugo v0.100.1](https://github.com/gohugoio/hugo/rele
 
 **Naming convention**: ```YYYY-mm-dd-several-unique-identifying-words.md```
 
-Simplest way is to duplicate an existing markdown file in ```/content/library``` (keep in same directory) and rename it. **Note** the date should be the date of publication of the resource, not the date of adding the content.
+Simplest way is to duplicate an existing markdown file in ```/content/library``` (keep in
+same directory) and rename it. The file name will be clean URL of the post.
+
+**Note**: the date should be the date of publication of the resource, not the date of adding
+the content to the Library.
 
 
 ### 2. File contents convention
@@ -52,10 +56,16 @@ Common shortcodes are:
 
 #### Youtube
 
-Take the URL of the video and in the *Content* section, write the code: ```{{< youtube QBCX3Oxp3vw >}}```
+Take the URL of the video and in the *Content* section and insert the short code:
+```
+{{< youtube QBCX3Oxp3vw >}}
+```
 
 #### Twitter
 
 E.g. if you have a tweet such as ```https://twitter.com/hiredbeard/status/1533363402160361472```
 
-Take the User ID and the Tweet ID and in the *Content* section, write the code ```{{< tweet user="hiredbeard" id="1533363402160361472" >}}```
+Take the User ID and the Tweet ID and in the *Content* section and insert the short code:
+```
+{{< tweet user="hiredbeard" id="1533363402160361472" >}}
+```
