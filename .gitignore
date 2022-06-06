@@ -11,3 +11,6 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 /public/
+
+# Hugo build file
+.hugo_build.lock
