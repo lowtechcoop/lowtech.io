@@ -26,6 +26,11 @@ theme = "beautifulhugo"
   weight = 10
 
 [[menu.main]]
+  name = "Library"
+  url = "library"
+  weight = 20
+
+[[menu.main]]
   name = "Tags"
   url = "tags"
-  weight = 20
+  weight = 30
