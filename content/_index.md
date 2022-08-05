@@ -8,6 +8,9 @@ tags:
 #### Who is ```#lowtech```?
 A community of nerds who like solving problems and arguing.
 
+
+![lobster drums](library/lobster-drums.jpg)
+
 #### Where are you?
 We are on the [OFTC](https://www.oftc.net/) IRC network in the ```#lowtech``` channel
 
